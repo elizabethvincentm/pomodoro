@@ -121,6 +121,6 @@ body {
 @keyframes clock-alert {
   50% {
     background: rgb(138, 14, 14);
-    padding: 10px;
+    padding: 5px;
   }
 }
